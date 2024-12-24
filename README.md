@@ -95,6 +95,11 @@ This document provides a comprehensive overview of various Linux-related reposit
 
 **Keywords**: crontab, ftp, scheduling, vsftpd, kickstart, rescue, ftp-server
 
+## 16. [virtual-hosting-in-linux](https://github.com/panwar100/virtual-hosting-in-linux)
+
+**Description**: Virtual hosting in Red Hat (or any Linux-based system) refers to hosting multiple websites or domains on a single server. This can be achieved using Apache HTTP Server (commonly known as Apache) 
+
+**Keywords**: virtualhosting, apache
 
 # Explanation of Linux Operating System
 
